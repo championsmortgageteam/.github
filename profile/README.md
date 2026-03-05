@@ -1,5 +1,3 @@
-# Champions Mortgage Team
-
 ![Champions Logo](https://championsmortgageteam.com/wp-content/uploads/2024/09/Chamions-Mortgage-Gold-Vertical-01.svg)
 
 ## About
