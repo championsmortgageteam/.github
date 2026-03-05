@@ -1,6 +1,6 @@
 # Champions Mortgage Team
 
-![Champions Logo](https://championsmortgageteam.com/wp-content/uploads/2024/09/CMt-LOGO-NEw.png)
+![Champions Logo](https://championsmortgageteam.com/wp-content/uploads/2024/09/Chamions-Mortgage-Gold-Vertical-01.svg)
 
 Internal tools and automation for Champions Mortgage Team.
 
