@@ -6,10 +6,6 @@
 
 Internal tools and automation for Champions Mortgage Team.
 
-## Our Repos
-
-- **BrokerFlow** - Quoting tool
-- **CMT-Scripts** - PowerShell automation and utilities
 
 ## Links
 
